@@ -1,0 +1,352 @@
+.Work {
+    position: absolute;
+    width: 764px;
+    height: 332px;
+    left: 187px;
+    top: 430px;
+}
+
+.Howdoes {
+    position: absolute;
+    width: 224px;
+    height: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #800080;
+}
+
+.data1 {
+    position: absolute;
+    width: 355.56px;
+    height: 72px;
+    top: 60px;
+}
+
+.Ellipse1 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    background-image: url(../../img/Ellipse132.png);
+}
+
+.Groups {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    background-image: url(../../img/Groups.png);
+}
+
+.Content {
+    position: absolute;
+    width: 270.56px;
+    height: 72px;
+    left: 80px;
+}
+
+.Invite {
+    position: absolute;
+    width: 151.22px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.Share {
+    position: absolute;
+    width: 270.56px;
+    height: 48px;
+    top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4D4D4D;
+}
+
+.data2 {
+    position: absolute;
+    width: 355.56px;
+    height: 72px;
+    top: 162px;
+}
+
+.Ellipse2 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    background-image: url(../../img/Ellipse132.png);
+}
+
+.₹ {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    background-image: url(../../img/₹.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.money {
+    position: absolute;
+    width: 222px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.purchase {
+    position: absolute;
+    width: 200.56px;
+    height: 48px;
+    top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4D4D4D;
+}
+
+.data3 {
+    position: absolute;
+    width: 355.56px;
+    height: 72px;
+    top: 260px;
+}
+
+.Ellipse3 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    background-image: url(../../img/Ellipse132.png);
+}
+
+.Accountbalancewallet {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    background-image: url(../../img/Accountbalancewallet.png);
+}
+
+.Content {
+    position: absolute;
+    width: 270.56px;
+    height: 72px;
+    left: 80px;
+}
+
+.Transfer {
+    position: absolute;
+    width: 220px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.reaches {
+    position: absolute;
+    width: 260.56px;
+    height: 48px;
+    top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4D4D4D;
+}
+
+.data4 {
+    position: absolute;
+    width: 355.56px;
+    height: 72px;
+    left: 400px;
+    top: 60px;
+}
+
+.Ellipse4 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    background-image: url(../../img/Ellipse132.png);
+}
+
+.Localoffer {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    background-image: url(../../img/Localoffer.png);
+
+}
+
+.course {
+    position: absolute;
+    width: 190.22px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.payments {
+    position: absolute;
+    width: 270.56px;
+    height: 48px;
+    top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4D4D4D;
+}
+
+.data5 {
+    position: absolute;
+    width: 355.56px;
+    height: 72px;
+    left: 400px;
+    top: 162px;
+}
+
+.Ellipse5 {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    background-image: url(../../img/Ellipse132.png);
+}
+
+.bxs_offer {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 25%;
+    right: 25%;
+    top: 25%;
+    bottom: 25%;
+    background-image: url(../../img/bxs_offer.png);
+}
+
+.gets {
+    position: absolute;
+    width: 220px;
+    height: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.successful {
+    position: absolute;
+    width: 260.56px;
+    height: 48px;
+    top: 25px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4D4D4D;
+}
+
+@media (min-width: 50px) and (max-width: 400px) {
+    .Work {
+        position: absolute;
+        width: 359.17px;
+        height: 496px;
+        left: 34px;
+        top: 603px;
+    }
+
+    .data1 {
+        position: absolute;
+        width: 355.56px;
+        height: 72px;
+        left: 0px;
+        top: 50px;
+    }
+
+    .Share {
+        position: absolute;
+        width: 220px;
+    }
+
+    .data2 {
+        width: 355.56px;
+        height: 72px;
+        left: 0px;
+        top: 250px;
+    }
+
+
+    .data3 {
+        width: 355.56px;
+        height: 72px;
+        left: 0px;
+        top: 450px;
+    }
+
+    .data4 {
+        width: 355.56px;
+        height: 72px;
+        left: 0px;
+        top: 150px;
+    }
+
+    .data5 {
+        width: 355.56px;
+        height: 72px;
+        left: 0px;
+        top: 350px;
+    }
+
+    .reaches {
+        width: 230px;
+    }
+
+    .course {
+        width: 220px;
+    }
+
+    .money {
+        width: 240px;
+    }
+}

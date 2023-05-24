@@ -1,0 +1,182 @@
+.nav {
+    position: absolute;
+    height: 73.03px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: #FFFFFF;
+}
+
+.logo {
+    position: absolute;
+    width: 160px;
+    height: 63px;
+    left: 74px;
+    top: 6px;
+    background: url(../../img/logo.png);
+}
+
+.n-items {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 28px;
+    position: absolute;
+    width: 519px;
+    height: 24px;
+    left: 766px;
+    top: 25px;
+}
+
+.Assignment {
+    width: 140px;
+    height: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.5%;
+    text-align: center;
+    color: rgba(128, 0, 128, 0.25);
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.chat {
+    width: 156px;
+    height: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.5%;
+    text-align: center;
+    color: rgba(128, 0, 128, 0.25);
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.ProfileName {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px;
+    gap: 4px;
+    width: 167px;
+    height: 24px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.AccountCircle {
+    color: #800080;
+    width: 24px;
+    height: 24px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.ProfileText {
+    width: 111px;
+    height: 22px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 123.5%;
+    text-align: center;
+    color: #800080;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.MdKeyboardArrowDown {
+    width: 24px;
+    height: 24px;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+@media (min-width: 50px) and (max-width: 400px) {
+    .nav {
+        position: absolute;
+        visibility: hidden;
+        width: 400px;
+        height: 58px;
+        left: 10px;
+        top: 58px;
+        background: #FFFFFF;
+    }
+
+    .logo {
+        visibility: visible;
+        position: absolute;
+        width: 160px;
+        height: 55px;
+        left: 3px;
+        top: 0px;
+        mix-blend-mode: normal;
+    }
+
+    .n-items {
+        visibility: hidden;
+        position: absolute;
+        top: 5px;
+        left: 175px;
+    }
+
+    .ProfileName {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 12px 25px;
+        /* gap: 10px; */
+        visibility: visible;
+        position: absolute;
+        width: 165px;
+        height: 48px;
+        left: 0px;
+        top: 0px;
+        background: #800080;
+        border-radius: 10px;
+    }
+
+    .AccountCircle {
+        display: none;
+    }
+
+    .ProfileText {
+        width: 99px;
+        height: 24px;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #FFFFFF;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+    }
+
+    .MdKeyboardArrowDown {
+        width: 24px;
+        height: 24px;
+        flex: none;
+        order: 1;
+        color: #FFFFFF;
+        flex-grow: 0;
+    }
+
+
+
+
+}
